@@ -1,1 +1,1 @@
-NOtes App for Full Stack Course
+Notes App for Full Stack Course
