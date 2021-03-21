@@ -38,22 +38,22 @@ describe('fsg-notes-list', () => {
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>Mar 1, 2020 10:10 AM</td>
+                  <td>Mar 4, 2020 10:10 AM</td>
                   <td>My First Note</td>
                 </tr>
                 <tr>
                   <td>2</td>
-                  <td>Mar 2, 2020 10:10 AM</td>
-                  <td>My First Note</td>
-                </tr>
-                <tr>
-                  <td>3</td>
                   <td>Mar 3, 2020 10:10 AM</td>
                   <td>My First Note</td>
                 </tr>
                 <tr>
+                  <td>3</td>
+                  <td>Mar 2, 2020 10:10 AM</td>
+                  <td>My First Note</td>
+                </tr>
+                <tr>
                   <td>4</td>
-                  <td>Mar 4, 2020 10:10 AM</td>
+                  <td>Mar 1, 2020 10:10 AM</td>
                   <td>My First Note</td>
                 </tr>
               </tbody>
